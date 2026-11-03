@@ -22,3 +22,8 @@ htmlcov/
 .DS_Store
 .vscode/
 .idea/
+.google-agents-cli/
+.adk/
+*.db
+*.log
+
